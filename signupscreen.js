@@ -1,3 +1,5 @@
+// Signup functionality implementation for user registration
+
 import React, { useState } from 'react';
 import { View, Text, TextInput, Button, Alert } from 'react-native';
 import AsyncStorage from '@react-native-async-storage/async-storage';
